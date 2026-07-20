@@ -33,7 +33,6 @@ The dataset used for this project contains real-world data job information. It i
 
 ## Dashboard Build
 
-![Salary Dashboard Screenshot](images/Screenshot_2026-07-21_012143.png)
 
 ### 🧮 Formulas and Functions
 
