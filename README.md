@@ -14,7 +14,7 @@ This repository contains my Excel projects built while following Luke Barousse's
 
 ## - 🔎 [Skill & Salary Analysis]
   A Power Query + PivotTable driven analysis answering which skills are most in demand and which pay the most.
-  [Checkout my work here](Project_1_Analysis)
+  [Checkout my work here](Project_2_Analysis)
 
 ### 🛠️ Excel Skills Used
 
